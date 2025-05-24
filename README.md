@@ -30,7 +30,7 @@ A powerful and beginner-friendly crypto trading bot built with **Python**, featu
 
 | Desktop | Mobile |
 |--------|--------|
-| ![](Screenshots/Desktop.png) | ![](Screenshots/Mobile.jng) |
+| ![](Screenshots/Desktop.png) | ![](Screenshots/Mobile.jpg) |
 
 ---
 
